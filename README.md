@@ -7,7 +7,6 @@
 
 Find me at:
 
-Find me at:
 <p align="left">
   <a href="https://twitter.com/yourusername" target="_blank">
     <img src="https://github.com/user-attachments/assets/fb5eb1ad-9cea-49cd-830e-71ed221ce95a" alt="Twitter" width="40">
