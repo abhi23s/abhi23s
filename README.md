@@ -6,3 +6,18 @@
 </h3>
 
 Find me at:
+
+Find me at:
+<p align="left">
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://github.com/user-attachments/assets/fb5eb1ad-9cea-49cd-830e-71ed221ce95a" alt="Twitter" width="40">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abhinav-p-263026250" target="_blank">
+    <img src="https://github.com/user-attachments/assets/485cd920-1719-4f2a-b6c1-ce146e6ab9df" alt="LinkedIn" width="40">
+  </a>
+</p>
+
+
+
+
+
